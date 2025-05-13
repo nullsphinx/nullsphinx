@@ -8,7 +8,7 @@ Security Analyst. Passionate about technology, history, geopolitics, philosophy,
 
 - **Languages:** Python, JavaScript, TypeScript, Bash, PowerShell, SQL, HTML, CSS  
 - **Frameworks & Libraries:** React, Next.js, Node.js, NestJS, Flask, Pandas  
-- **Infrastructure & DevOps:** AWS, Docker, GitHub Actions CI/CD, Linux (Mint, Ubuntu, Kali, etc.), Proxmox, SIEM / EDR (Splunk, Elastic, Wazuh)  
+- **Infrastructure & DevOps:** AWS, Docker, Linux (Mint, Ubuntu, Kali, etc.), Proxmox, SIEM / EDR (Splunk, Elastic, Wazuh)  
 - **APIs & Integrations:** RESTful APIs (Express.js, Axios), Wazuh API, RSS feeds  
 
 ---
