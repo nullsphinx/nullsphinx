@@ -2,7 +2,6 @@
 
 Security Analyst. Passionate about technology, history, geopolitics, philosophy, etc.
 
----
 
 ## Technical Skills
 
@@ -11,7 +10,6 @@ Security Analyst. Passionate about technology, history, geopolitics, philosophy,
 * **Infrastructure & DevOps:** AWS, Docker, Linux (Mint, Ubuntu, Kali, etc.), Proxmox, SIEM / EDR (Splunk, Elastic, Wazuh)
 * **APIs & Integrations:** RESTful APIs (Express.js, Axios), Wazuh API, RSS feeds
 
----
 
 ## Projects
 
@@ -20,7 +18,6 @@ Security Analyst. Passionate about technology, history, geopolitics, philosophy,
 * **book-dependency-graph** – Recursively view a book’s sources
 * **future-finances** – Personal finance calculator
 
----
 
 ## Contact
 
