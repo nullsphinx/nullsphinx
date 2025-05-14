@@ -24,19 +24,22 @@ Security Analyst. Passionate about technology, history, geopolitics, philosophy,
 
 ## Contact
 
-* **Email:** [personal@jah-aws.com](mailto:personal@jah-aws.com)
-* **Encrypted email (PGP):**
-
-  * **Fingerprint:** A832 5B03 D17D AD27 D9A3 A51D 702F 05B7 7C41 C8B8
-  * **Get public key:**
-
+- **Email:** personal@jah-aws.com  
+- **Encrypted email (PGP)**  
+  - **Fingerprint:**  
+    ```
+    A832 5B03 D17D AD27 D9A3  A51D 702F 05B7 7C41 C8B8
+    ```  
+  - **Import my public key:**
     ```bash
-    curl -O https://gist.github.com/nullsphinx/e1e543193f3dcb462c7b54d5c28c5698/raw/pubkey.asc
+    curl -L -o pubkey.asc \
+      https://gist.githubusercontent.com/nullsphinx/e1e543193f3dcb462c7b54d5c28c5698/raw/pubkey.asc
+
     gpg --import pubkey.asc
     gpg --fingerprint personal@jah-aws.com
     ```
-  * **Encrypt for me:**
-
+  - **Encrypt a message for me:**
     ```bash
-    gpg --encrypt --recipient personal@jah-aws.com file.txt
+    gpg --encrypt --recipient personal@jah-aws.com \
+      --output message.txt.gpg message.txt
     ```
