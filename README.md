@@ -15,7 +15,7 @@ Security Analyst. Passionate about technology, history, geopolitics, philosophy,
 
 * **balconythoughts** – Personal portfolio and website
 * **chronovos** – Geographic historical timeline app
-* **book-dependency-graph** – Recursively view a book’s sources
+* **book-dependency-tree** – Recursively view a book’s sources
 * **future-finances** – Personal finance calculator
 
 
