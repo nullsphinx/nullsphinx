@@ -1,19 +1,11 @@
 # nullsphinx
 
-Security Analyst. Passionate about technology, history, geopolitics, philosophy, etc.
-
-
-## Technical Skills
-
-* **Languages:** Python, JavaScript, TypeScript, Bash, PowerShell, SQL, HTML, CSS
-* **Frameworks & Libraries:** React, Next.js, Node.js, NestJS, Flask, Pandas
-* **Infrastructure & DevOps:** AWS, Docker, Linux (Mint, Ubuntu, Kali, etc.), Proxmox, SIEM / EDR (Splunk, Elastic, Wazuh)
-* **APIs & Integrations:** RESTful APIs (Express.js, Axios), Wazuh API, RSS feeds
-
+Security Analyst | Cyber Threat Intel
 
 ## Projects
 
-* **balconythoughts** – Personal portfolio and website
+* **ctx** – Threat intelligence platform
+* **balconythoughts** – Personal website
 * **chronovos** – Geographic historical timeline app
 * **book-dependency-tree** – Recursively view a book’s sources
 * **future-finances** – Personal finance calculator
@@ -21,22 +13,22 @@ Security Analyst. Passionate about technology, history, geopolitics, philosophy,
 
 ## Contact
 
-- **Email:** personal@jah-aws.com  
+- **Email:** hermyx@proton.me 
 - **Encrypted email (PGP)**  
   - **Fingerprint:**  
     ```
-    A832 5B03 D17D AD27 D9A3  A51D 702F 05B7 7C41 C8B8
+    5325 D31F C34D CFC7 8BAD  E9FA 353F 84B3 905D A9F1
     ```  
   - **Import my public key:**
     ```bash
     curl -L -o pubkey.asc \
-      https://gist.githubusercontent.com/nullsphinx/e1e543193f3dcb462c7b54d5c28c5698/raw/pubkey.asc
+      https://gist.githubusercontent.com/nullsphinx/ad0ddba3969bf7f6b41bc9b48a843e01/raw/pubkey.asc
 
     gpg --import pubkey.asc
-    gpg --fingerprint personal@jah-aws.com
+    gpg --fingerprint hermyx@proton.me
     ```
   - **Encrypt a message for me:**
     ```bash
-    gpg --encrypt --recipient personal@jah-aws.com \
+    gpg --encrypt --recipient hermyx@proton.me \
       --output message.txt.gpg message.txt
     ```
