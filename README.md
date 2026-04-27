@@ -10,12 +10,15 @@ Security Analyst | Cyber Threat Intel
 * **book-dependency-tree** – Recursively view a book’s sources
 * **future-finances** – Personal finance calculator
 
-
 ## Contact
 
 - **Email:** hermyx@proton.me 
-- **Encrypted email (PGP)**  
-  - Requires [GnuPG](https://gnupg.org/) installed.
+- **Encrypted email (PGP)**. Requires [GnuPG](https://gnupg.org/) installed.
+  
+  - **Install GnuPG on macOS:**
+    ```bash
+    brew install gnupg
+    ```
   - **Fingerprint:**  
     ```
     5325 D31F C34D CFC7 8BAD  E9FA 353F 84B3 905D A9F1
@@ -29,7 +32,7 @@ Security Analyst | Cyber Threat Intel
     gpg --fingerprint hermyx@proton.me
     ```
     Confirm the fingerprint shown by `gpg --fingerprint` matches the fingerprint above.
-    
+
   - **Encrypt a message for me:**
     ```bash
     gpg --armor --encrypt --trust-model always \
