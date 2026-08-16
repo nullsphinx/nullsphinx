@@ -1,14 +1,6 @@
 # nullsphinx
 
-Security Analyst | Cyber Threat Intel
-
-## Projects
-
-* **ctx** – Threat intelligence platform
-* **balconythoughts** – Personal website
-* **chronovos** – Geographic historical timeline app
-* **book-dependency-tree** – Recursively view a book’s sources
-* **future-finances** – Personal finance calculator
+Threat Emulation and Exploit Engineer
 
 ## Contact
 
